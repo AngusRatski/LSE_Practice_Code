@@ -24,7 +24,7 @@ e = 12900
 # In[4]:
 
 
-#find total sales values
+#find total sales value
 total_sales = a + b + c + d + e
 print(total_sales)
 
@@ -42,10 +42,5 @@ print(average_sales)
 
 #find the missing property price value
 print(c-6500)
-
-
-# In[ ]:
-
-
 
 
